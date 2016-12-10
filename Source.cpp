@@ -45,7 +45,7 @@ public:
 	void Report()
 	{
 		printf("------------------------------------------------\n");
-		printf("Transaction Type: Deposit\n");
+		printf("Transaction Type: Withdraw\n");
 		printf("User ID: %d\n", UserID);
 		printf("Amount: $%f\n", Amount);
 		printf("------------------------------------------------\n");
